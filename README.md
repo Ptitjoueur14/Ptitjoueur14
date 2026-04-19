@@ -11,5 +11,6 @@ I hope I will come up with some project ideas someday because it's a little empt
 </p>
 
 ## Coding Activity
-
-<img src="https://wakatime.com/share/@Ptitjoueur14/7aad4e45-3719-4f35-a46b-e0891c6df958.svg" width="40%">
+<p align="center">
+  <img src="https://wakatime.com/share/@Ptitjoueur14/7aad4e45-3719-4f35-a46b-e0891c6df958.svg" width="80%">
+</p>
