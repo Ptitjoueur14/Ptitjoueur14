@@ -9,11 +9,9 @@ I hope I will come up with some project ideas someday because it's a little empt
 </a>
 
 <a href="https://github.com/Ptitjoueur14">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptitjoueur14&layout=compact&theme=tokyonight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptitjoueur14&layout=compact&theme=tokyonight"/>
 </a>
 
 ### Coding Activity
 
-<a href="https://github.com/Ptitjoueur14"> <img align="left" width="47%" src="https://wakatime.com/share/d2470020-4094-4023-98de-c5818bea880c.svg"&layout=compact&langs_count=10&theme=tokyonight&custom_title=Time%20by%20language"/> </a>
-
-<img src="https://wakatime.com/share/@Ptitjoueur14/7aad4e45-3719-4f35-a46b-e0891c6df958.svg" width="100%">
+<img src="https://wakatime.com/share/@Ptitjoueur14/7aad4e45-3719-4f35-a46b-e0891c6df958.svg" width="40%">
