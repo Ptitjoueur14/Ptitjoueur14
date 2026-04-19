@@ -7,7 +7,7 @@ I hope I will come up with some project ideas someday because it's a little empt
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ptitjoueur14&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=30" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptitjoueur14&theme=tokyonight&layout=compact&hide_border=false&langs_count=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptitjoueur14&theme=tokyonight&hide_border=false&langs_count=10" width="48%" />
 </p>
 
 ## Coding Activity
