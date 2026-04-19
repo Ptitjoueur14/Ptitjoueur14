@@ -9,7 +9,7 @@ I hope I will come up with some project ideas someday because it's a little empt
 </a>
 
 <a href="https://github.com/Ptitjoueur14">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptitjoueur14&layout=compact&theme=tokyonight"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptitjoueur14&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
 </a>
 
 ## Coding Activity
